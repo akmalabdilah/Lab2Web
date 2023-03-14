@@ -39,23 +39,7 @@ Jika kalian penasaran dan ingin mencoba program di file coding kalian harus meng
 PHP dasar<p>
 Jika sudang menginsatall xampp dan visual code kalian bisa mencoba 10 coding php di bawah ini.<p>
 
-1. file coding1.php<p>
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <title>PHP Dasar</title>
-</head>
-
-<body>
-    <h1>Belajar PHP Dasar</h1>
-    <?php
-    echo "Hello World";
-    ?>
-</body>
-
-</html
+![Gambar 6](screenshoot/6.JPG)
 
 Kemudian untung memanggil koding di atas kalian bisa menulis url seperti ini Kemudian untuk mengakses hasilnya melalui URL: http://localhost/Lab2Web/coding/coding1.php
 sebelum mengakses coding pastikan file sudah di pindahkan ke xampp/htdocs dan pastikan xamppnya di star, dan jika berhasil nanti hasil outputnya seperti di bawah ini<p>
