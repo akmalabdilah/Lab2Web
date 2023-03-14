@@ -55,7 +55,7 @@ Bedanya dari coding sebelumnya adalah isi coding di dalam body di ubah dan di pe
 Bedanya dari coding sebelumnya adalah di bagian coding head di hapus juga cara memanggilnya coding ini berbeda bisanya pakai url http://localhost/Lab2Web/coding/coding3.php di pencaian, crom dan sekarang url untukmemunculkan hasil code koding3.php harung menggunakan url ini supaya muncul dan tidak eror http://localhost/Lab2Web/coding/coding1.php?nama=akmal maka akan muncul outpu seperti di bawah ini.<p>
 ![Gambar 11](screenshoot/11.JPG)
 
-Karena coding yang selanjutnya sama memunculkannya dengan penjelasan di atas saya akan memunculkan coding dan outupnya saja tanpa penjelasan karna sudah say jelaskan di atas selamat mencoba codingnya.<p>
+Karena coding yang selanjutnya sama memunculkannya dengan penjelasan di atas saya akan memunculkan coding dan outupnya saja tanpa penjelasan karna sudah saya jelaskan di atas selamat mencoba codingnya.<p>
 
 ![Gambar 12](screenshoot/12.JPG)
 Hasil Outpunya.<p>
@@ -85,4 +85,4 @@ Hasil Outpunya.<p>
 Hasil Outpunya.<p>
 ![Gambar 25](screenshoot/25.JPG)
 
-Maaf apabilah dari awal kalian baca sampai ke titik ini masih banyak ke kurangan mulai dari kata-kata yang kurang tersusun penjelasan yang kurang mendetail dan masih banyak lagi, kuarang lebihnya saya mohon maaf assalam'mulaikum wr wb.<p>
+Maaf apa bila dari awal kalian baca sampai ke titik ini masih banyak ke kurangan mulai dari kata-kata yang kurang tersusun penjelasan yang kurang mendetail dan masih banyak lagi kurangnnya, sekian tugas peratikum kali ini dari saya M. AKMAL AL ABDILAH kuarang lebihnya saya mohon maaf assalam'mulaikum wr wb.<p>
