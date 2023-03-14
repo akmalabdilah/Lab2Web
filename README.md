@@ -37,7 +37,7 @@ Tampilan program di dekstop(komputer)<p>
 Jika kalian penasaran dan ingin mencoba program di file coding kalian harus menginstall xampp dan visual code.<p>
 
 PHP dasar<p>
-Jika sudang menginsatall xampp dan visual code kalian bisa mencoba 10 coding php di bawah ini.<p>
+Jika sudang menginsatall xampp dan visual code kalian bisa mencoba 10 coding php di bawah ini coding dibawah ini versi file coding terpisah jika ingin versi yang satu file kalian bisa coba file php_dasar.php  di dalam file ini terdapat tiga coding yang di jadikan satu coding1.php sampai coding3.php, ada juga satu file lagi yang menggambukan tujuh coding nama filenya from.php di dalam file ini terdapan 7 coding yang di jadikan satu dari coding4.php sampai coding10.php.<p>
 
 ![Gambar 6](screenshoot/6.JPG)
 
@@ -54,3 +54,33 @@ Bedanya dari coding sebelumnya adalah isi coding di dalam body di ubah dan di pe
 ![Gambar 10](screenshoot/10.JPG)
 Bedanya dari coding sebelumnya adalah di bagian coding head di hapus juga cara memanggilnya coding ini berbeda bisanya pakai url http://localhost/Lab2Web/coding/coding3.php di pencaian, crom dan sekarang url untukmemunculkan hasil code koding3.php harung menggunakan url ini supaya muncul dan tidak eror http://localhost/Lab2Web/coding/coding1.php?nama=akmal maka akan muncul outpu seperti di bawah ini.<p>
 ![Gambar 11](screenshoot/11.JPG)
+
+Karena coding yang selanjutnya sama memunculkannya dengan penjelasan di atas saya akan memunculkan coding dan outupnya saja tanpa penjelasan karna sudah say jelaskan di atas selamat mencoba codingnya.<p>
+
+![Gambar 12](screenshoot/12.JPG)
+Hasil Outpunya.<p>
+![Gambar 13](screenshoot/13.JPG)
+
+![Gambar 14](screenshoot/14.JPG)
+Hasil Outpunya.<p>
+![Gambar 15](screenshoot/15.JPG)
+
+![Gambar 16](screenshoot/16.JPG)
+Hasil Outpunya.<p>
+![Gambar 17](screenshoot/17.JPG)
+
+![Gambar 18](screenshoot/18.JPG)
+Hasil Outpunya.<p>
+![Gambar 19](screenshoot/19.JPG)
+
+![Gambar 20](screenshoot/20.JPG)
+Hasil Outpunya.<p>
+![Gambar 21](screenshoot/21.JPG)
+
+![Gambar 22](screenshoot/22.JPG)
+Hasil Outpunya.<p>
+![Gambar 23](screenshoot/23.JPG)
+
+![Gambar 24](screenshoot/24.JPG)
+Hasil Outpunya.<p>
+![Gambar 25](screenshoot/25.JPG)
