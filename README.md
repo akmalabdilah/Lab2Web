@@ -44,3 +44,9 @@ Jika sudang menginsatall xampp dan visual code kalian bisa mencoba 10 coding php
 Kemudian untung memanggil koding di atas kalian bisa menulis url seperti ini Kemudian untuk mengakses hasilnya melalui URL: http://localhost/Lab2Web/coding/coding1.php
 sebelum mengakses coding pastikan file sudah di pindahkan ke xampp/htdocs dan pastikan xamppnya di star, dan jika berhasil nanti hasil outputnya seperti di bawah ini<p>
 ![Gambar 5](screenshoot/5.JPG)
+
+![Gambar 7](screenshoot/7.JPG)
+![Gambar 8](screenshoot/8.JPG)
+
+Bedannya dari coding sebelumnya adalah isi coding di dalam body di ubah dan di perbannyak sedikit dan menghasilkan output seperti di bawah.<p>
+![Gambar 9](screenshoot/9.JPG)
