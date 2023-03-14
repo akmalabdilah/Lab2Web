@@ -24,7 +24,7 @@
 
 Assalam'mulaikum wr wb. <p> 
 
-Di tugas pratikum kali ini saya akan membagikan sedikit shering mengenai program php dasar, tampa berlama lama lagi saya kan mesering foto hasil output dari 10 coding di bawah apa bila di satukan menjadi satu program.<p>
+Di tugas pratikum kali ini saya akan membagikan sedikit shering mengenai program php dasar, tanpa berlama lama lagi saya kan mesering foto hasil output dari 10 coding di bawah apa bila di satukan menjadi satu file program.<p>
 
 # Tugas_Pratikum_2
 
