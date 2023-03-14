@@ -84,3 +84,5 @@ Hasil Outpunya.<p>
 ![Gambar 24](screenshoot/24.JPG)
 Hasil Outpunya.<p>
 ![Gambar 25](screenshoot/25.JPG)
+
+Maaf apabilah dari awal kalian baca sampai ke titik ini masih banyak ke kurangan mulai dari kata-kata yang kurang tersusun penjelasan yang kurang mendetail dan masih banyak lagi, kuarang lebihnya saya mohon maaf assalam'mulaikum wr wb.<p>
