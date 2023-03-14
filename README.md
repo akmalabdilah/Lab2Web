@@ -52,4 +52,5 @@ Bedanya dari coding sebelumnya adalah isi coding di dalam body di ubah dan di pe
 ![Gambar 9](screenshoot/9.JPG)
 
 ![Gambar 10](screenshoot/10.JPG)
-Bedanya dari coding sebelumnya adalah di bagian coding head di hapus juga cara memanggilnya coding ini berbeda bisanya pakai url http://localhost/Lab2Web/coding/coding3.php di pencaian, crom dan sekarang url untukmemunculkan hasil code koding3.php harung menggunakan url ini supaya muncul dan tidak eror http://localhost/Lab2Web/coding/coding1.php?nama=akmal.<p>
+Bedanya dari coding sebelumnya adalah di bagian coding head di hapus juga cara memanggilnya coding ini berbeda bisanya pakai url http://localhost/Lab2Web/coding/coding3.php di pencaian, crom dan sekarang url untukmemunculkan hasil code koding3.php harung menggunakan url ini supaya muncul dan tidak eror http://localhost/Lab2Web/coding/coding1.php?nama=akmal maka akan muncul outpu seperti di bawah ini.<p>
+![Gambar 11](screenshoot/11.JPG)
