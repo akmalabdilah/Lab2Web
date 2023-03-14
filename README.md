@@ -32,7 +32,6 @@ Di tugas pratikum kali ini saya akan membagikan sedikit shering mengenai program
 ![Gambar 1](screenshoot/1.JPG)
 ![Gambar 2](screenshoot/2.JPG)
 ![Gambar 3](screenshoot/3.JPG)
-![Gambar 2](screenshoot/2.JPG)
 ![Gambar 4](screenshoot/4.JPG)
 
 Di atas adalah output program yang ada di bawah.<p>
