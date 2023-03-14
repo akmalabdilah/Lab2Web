@@ -36,7 +36,7 @@ Tampilan program di dekstop(komputer)<p>
 
 Jika kalian penasaran dan ingin mencoba program di file coding kalian harus menginstall xampp dan visual code.<p>
 
-<p>PHP dasar</p>
+PHP dasar<p>
 Jika sudang menginsatall xampp dan visual code kalian bisa mencoba 10 coding php di bawah ini.<p>
 
 1. file coding1.php<p>
